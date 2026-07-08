@@ -6,13 +6,13 @@
 * [Twitter](https://twitter.com/NagooyenGames)
 * [Discord](https://discord.gg/Q77hWs3Zhh)
 * [Email](mailto:NagooyenGames@gmail.com)
+* [Start.gg tournaments](https://tinyurl.com/GemionTourneys)
 * [TierMaker](https://tiermaker.com/create/gemion-function-19482182)
 
 **Top 8 Generator**:
 * [Top 8 Generator](https://tinyurl.com/Top8Gemion)
 * [Top 8 GitHub source code](https://github.com/richardvinguyen/Top8Results-GemionFunction)
   * If trying to run locally, look in "assets" folder and see comments in: characters.js, gems.js, and backgrounds.js
-* [Start.gg tournaments](https://tinyurl.com/GemionTourneys)
 
 **Legal Documentation**:
 * [Privacy Policy](./legal/privacy_policy.md)
