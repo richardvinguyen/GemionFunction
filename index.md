@@ -1,3 +1,19 @@
-# Legal Documentation
-- [Privacy Policy](./legal/privacy_policy.md)
-- [End-User License Agreement](./legal/eula.md)
+**General**:
+* [Gemion Function on Steam](https://store.steampowered.com/app/2212400/Gemion\_Function/)
+* [Press Kit for high quality images, videos, and assets](https://drive.google.com/drive/folders/1ySVfY7\_4cMCSOHAYUGQTx4D209v2ClOB)
+
+**Social Media**:
+* [Twitter](https://twitter.com/NagooyenGames)
+* [Discord](https://discord.gg/Q77hWs3Zhh)
+* [Email](NagooyenGames@gmail.com)
+* [TierMaker](https://tiermaker.com/create/gemion-function-19482182)
+
+**Top 8 Generator**:
+* [Top 8 Generator](https://tinyurl.com/Top8Gemion)
+* [Top 8 GitHub source code](https://github.com/richardvinguyen/Top8Results-GemionFunction)
+  * If trying to run locally, look in "assets" folder and see comments in: characters.js, gems.js, and backgrounds.js
+* [Start.gg tournaments](https://tinyurl.com/GemionTourneys)
+
+**Legal Documentation**:
+* [Privacy Policy](./legal/privacy_policy.md)
+* [End-User License Agreement](./legal/eula.md)
