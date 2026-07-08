@@ -1,11 +1,11 @@
 **General**:
 * [Gemion Function on Steam](https://store.steampowered.com/app/2212400/Gemion\_Function/)
-* [Press Kit for high quality images, videos, and assets](https://drive.google.com/drive/folders/1ySVfY7\_4cMCSOHAYUGQTx4D209v2ClOB)
+* [Press Kit for high quality images, videos, and assets](https://drive.google.com/drive/folders/1ySVfY7_4cMCSOHAYUGQTx4D209v2ClOB)
 
 **Social Media**:
 * [Twitter](https://twitter.com/NagooyenGames)
 * [Discord](https://discord.gg/Q77hWs3Zhh)
-* [Email](NagooyenGames@gmail.com)
+* [Email](mailto:NagooyenGames@gmail.com)
 * [TierMaker](https://tiermaker.com/create/gemion-function-19482182)
 
 **Top 8 Generator**:
