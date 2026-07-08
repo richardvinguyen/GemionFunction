@@ -1,4 +1,4 @@
-## **Nagooyen, LLC.** 
+## **Nagooyen, LLC** 
 
 ## **Privacy Policy** 
 
