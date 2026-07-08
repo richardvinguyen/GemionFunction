@@ -11,9 +11,12 @@
 
 **Top 8 Generator**:
 * [Top 8 Generator](https://tinyurl.com/Top8Gemion)
-* [Top 8 GitHub source code](https://github.com/richardvinguyen/Top8Results-GemionFunction)
-  * If trying to run locally, look in "assets" folder and see comments in: characters.js, gems.js, and backgrounds.js
+* [Top 8 GitHub Source Code](https://github.com/richardvinguyen/Top8Results-GemionFunction) = If trying to run locally, look in "assets" folder and see comments in: characters.js, gems.js, and backgrounds.js
 
 **Legal Documentation**:
 * [Privacy Policy](./legal/privacy_policy.md)
 * [End-User License Agreement](./legal/eula.md)
+
+**Website**:
+* [Gemion Function Website](https://richardvinguyen.github.io/GemionFunction/)
+* [Gemion Function Website Source Code](https://github.com/richardvinguyen/GemionFunction)
