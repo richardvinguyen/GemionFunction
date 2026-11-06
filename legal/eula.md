@@ -58,7 +58,7 @@ Unless otherwise indicated, any future release, update, patch, DLC, or other add
 
 **(b)** You agree that you are solely responsible for, and you assume all risks associated with your User Content, including any reliance on its accuracy, completeness or usefulness by others, or any disclosure of your User Content that personally identifies you or any third party; 
 
-- **(c)** You consent to our use of your personal information as outlined in the Privacy Policy; 
+**(c)** You consent to our use of your personal information as outlined in the Privacy Policy; 
 
 **(d)** To the extent that you submit information that personally identifies or is otherwise of or about a third party (“ **Third Party Information** ”) through the Game or Outside Platform, you represent that all such Third Party Information is of persons who are at least 18 years of age, and that you have validly obtained all consents and provided all notices required by applicable law for the submission, disclosure and use by us of the Third Party Information; 
 
@@ -136,8 +136,8 @@ hereunder preclude further exercise of that or any other right hereunder. In the
 
 ## **11.10 Contact:** 
 
-nagooyengames@gmail.com
-Nagooyen, LLC
-3654 Thornton Avenue, #1079
+nagooyengames@gmail.com<br>
+Nagooyen, LLC<br>
+3654 Thornton Avenue, #1079<br>
 Fremont, CA 94536 
 
